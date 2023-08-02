@@ -1,2 +1,5 @@
 env/
-Chapter1/datasets/
+.ipynb_checkpoints/
+Chapter2/datasets/
+Chapter2/.ipynb_checkpoints/
+Chapter3/.ipynb_checkpoints/
